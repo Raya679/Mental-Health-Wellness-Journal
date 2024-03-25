@@ -1,4 +1,4 @@
-# Mental-Wellness-Journal
+# Mental-Health-Wellness-Journal
 The project aims at improving mental wellness of a person by providing various features like:
 
 - Recommendation of mindful exercises,
