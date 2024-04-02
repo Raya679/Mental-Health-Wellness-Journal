@@ -11,3 +11,6 @@ The project aims at improving mental wellness of a person by providing various f
 - A <b>mood tracker</b>, where the user needs to specify the mood by rating from 1 to 10 and the data entered is plot on the graph for user to analyze.
 ![image](https://github.com/druhi021204/Teen-Mental-Wellness-Journal/assets/113240231/0854de9d-df40-47f9-9a3c-fbfb27366275)
 ![image](https://github.com/druhi021204/Teen-Mental-Wellness-Journal/assets/113240231/5e470fd9-145c-4fd2-82b8-dfc2d5b808e9)
+
+- Access instant support and guidance through our interactive <b>chatbot</b>, providing personalized assistance and resources tailored to your needs.
+![image](https://github.com/Raya679/Healthcare-Chatbot/assets/113240231/6999d268-459b-4086-8a66-fa991355c406)
