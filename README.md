@@ -14,3 +14,8 @@ The project aims at improving mental wellness of a person by providing various f
 
 - Access instant support and guidance through our interactive <b>chatbot</b>, providing personalized assistance and resources tailored to your needs.
 ![image](https://github.com/Raya679/Healthcare-Chatbot/assets/113240231/6999d268-459b-4086-8a66-fa991355c406)
+
+- Set timer for meditation.
+![image](https://github.com/druhi021204/Teen-Mental-Wellness-Journal/assets/113240231/411cdc92-c586-43aa-a807-33da204c1cfc)
+![image](https://github.com/Raya679/Healthcare-Chatbot/assets/113240231/5d97cd66-a551-457d-897b-425d23ab2e26)
+
